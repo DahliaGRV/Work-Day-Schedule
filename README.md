@@ -14,8 +14,8 @@ https://dahliagrv.github.io/Work-Day-Schedule/
 
 
 ### Screenshots of Work-Day-Schedule:
-
-
+![image](https://user-images.githubusercontent.com/98775943/162124808-5d0f8152-a796-4f76-a278-8d886b419e69.png)
+![image](https://user-images.githubusercontent.com/98775943/162125051-1478b7bb-7099-4daa-97e3-d81d1cede5f1.png)
 
 
 
