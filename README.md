@@ -9,7 +9,7 @@ https://github.com/DahliaGRV/Work-Day-Schedule
 
 
 ### Link to deployed site:
-
+https://dahliagrv.github.io/Work-Day-Schedule/
 
 
 
